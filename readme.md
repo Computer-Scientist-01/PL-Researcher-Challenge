@@ -42,8 +42,8 @@ I'll be sharing raw updates here—probably weekly. Wins, fails, code snippets, 
 
 | Status | Departmental Requirements | Subject (Number/Title) | Units | Prerequisites | Resources | Notes |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| ⏳ | **Computer Science Requirements** | **6.100A: Introduction to Computer Science Programming in Python** | 6-12 | None | [OCW (Fall 2022)](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/); [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Python basics. Start here; quick for experienced coders. |
-| ⏳ | | **18.S191: Introduction to Computational Thinking** (sub for 6.1020) | 12 | None | [OCW (Fall 2022)](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/); [YouTube (Spring 2021)](https://www.youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0) | Optimization, simulations, stats in Julia. |
+| ⏭️ | **Computer Science Requirements** | **6.100A: Introduction to Computer Science Programming in Python** | 6 | None | [OCW (Fall 2022)](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/); [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Skipped: Too basic. |
+| ⏭️ | | **6.100B Introduction to Computational Thinking and Data Science** | 6 | 6.100A: Introduction to Computer Science Programming in Python | [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | Skipped: Too basic. |
 | ⏳ | | **16.C20[J]: Introduction to Computational Science and Engineering** | 12 | Any of MIT’s Calculus II courses | [OCW](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-summer-2020/) | Fundamental computational toolbox for solving science and engineering problems. |
 | ⏳ | | **6.1010: Fundamentals of Programming** | 12 | 6.100A | - | Data structures, recursion, testing in Python. |
 | ⏳ | | **6.1200[J]: Mathematics for Computer Science** (joint with 18) | 12 | Calculus I (18.01) | [OCW (Spring 2024)](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/); [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d) | Discrete math, proofs. |
@@ -74,9 +74,3 @@ I'll be sharing raw updates here—probably weekly. Wins, fails, code snippets, 
 | ⏳ | **6.821: Programming Languages** | | [OCW (Fall 2002)](https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/) | Types/semantics/functional; grad-level PL. |
 | ⏳ | **6.854J: Advanced Algorithms** | Intro to algorithms, Linear Algebra | [OCW (Fall 2008)](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/) | Graduate course on design and analysis of algorithms. |
 | ⏳ | **18.409: Behavior of Algorithms** | Grad course in algorithms | [OCW (Spring 2002)](https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/) | Area of current interest in theoretical computer science. |
-
-## Weekly Updates
-
-*Watch this space for weekly logs of my progress.*
-
-
