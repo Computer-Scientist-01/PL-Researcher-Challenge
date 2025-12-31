@@ -38,39 +38,12 @@ I'll be sharing raw updates here—probably weekly. Wins, fails, code snippets, 
 
 ---
 
-## Curriculum: BS in Computer Science and Engineering (Course 6-3)
 
-| Status | Departmental Requirements | Subject (Number/Title) | Units | Prerequisites | Resources | Notes |
-| :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| ⏭️ | **Computer Science Requirements** | **6.100A: Introduction to Computer Science Programming in Python** | 6 | None | [OCW (Fall 2022)](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/); [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Skipped: Too basic. |
-| ⏭️ | | **6.100B Introduction to Computational Thinking and Data Science** | 6 | 6.100A: Introduction to Computer Science Programming in Python | [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | Skipped: Too basic. |
-| ⏳ | | **16.C20[J]: Introduction to Computational Science and Engineering** | 12 | Any of MIT’s Calculus II courses | [OCW](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-summer-2020/) | Fundamental computational toolbox for solving science and engineering problems. |
-| ⏳ | | **6.1010: Fundamentals of Programming** | 12 | 6.100A | - | Data structures, recursion, testing in Python. |
-| ⏳ | | **6.1200[J]: Mathematics for Computer Science** (joint with 18) | 12 | Calculus I (18.01) | [OCW (Spring 2024)](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/); [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d) | Discrete math, proofs. |
-| ⏳ | | **6.1210: Introduction to Algorithms** | 12 | 6.100A and 6.1200[J] | [OCW (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | Mathematical modeling of computational problems, algorithms, and data structures. |
-| ⏳ | | **6.1220[J]: Design and Analysis of Algorithms** | 12 | 6.1210 and 6.1200[J] | [OCW (Spring 2015)](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) | Intermediate algorithms, design and analysis of efficient algorithms. |
-| ⏳ | | **6.1910: Computation Structures** | 12 | Physics II (8.02) and C | [OCW (Spring 2017)](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/); [YouTube (Fall 2018)](https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu); [Official Site](https://computationstructures.org/) | Architecture of digital systems, structural principles. |
-| ⏳ | | **6.1903: Low-Level Programming in C and Assembly** | 6 | 6.004, 6.006, 6.031 | [OCW (Fall 2018)](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) | Hands-on, project-based introduction to scalable and high-performance systems. |
-| ⏳ | | **6.1800: Computer Systems Engineering** | 12 | 6.004 and 6.009 | [OCW (Spring 2018)](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/); [YouTube (Spring 2005)](https://www.youtube.com/playlist?list=PL6535748F59DCA484) | Engineering of computer software and hardware systems. |
-| ⏳ | | **18.06: Linear Algebra** | 12 | 18.02 Multivariable Calculus | [OCW (Fall 2011)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | Matrix theory and linear algebra. |
+## BS in Computer Science and Engineering (104 days)
 
-### Elective Subjects
+# December 2025 
 
-#### Compilers & PL Track
-| Status | Subject (Number/Title) | Units | Prerequisites | Resources | Notes |
-| :---: | :--- | :---: | :--- | :--- | :--- |
-| ⏳ | **6.1100: Computer Language Engineering** | 12 | 6.170 and Java proficiency | [OCW (Spring 2010)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/) | Implementation of higher-level programming languages, compilers. |
-| ⏳ | **6.1120: Dynamic Computer Language Engineering** | 12 | - | - | Design and implementation of modern, dynamic programming languages. |
+I'll be straight—no bullshit: I accomplished *nothing* this month. There was a mountain of goals stacked up for December (hello, MIT Course 6-3 deep dive), but here I am on Dec 31, 2025, staring at a blank slate. Zero completions. Not one algorithm conquered, not a single proof scribbled. I legit have no fucking clue what I did with those last 27 days—scrolling? Procrastinating? Existing in some analysis-paralysis limbo?
 
-#### Theory of Computation Track
-| Status | Subject (Number/Title) | Units | Prerequisites | Resources | Notes |
-| :---: | :--- | :---: | :--- | :--- | :--- |
-| ⏳ | **18.404: Theory of Computation** | 12 | 6.042J and 18.200 | [OCW (Fall 2020)](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/syllabus/) | Computability and computational complexity theory. |
-| ⏳ | **6.844: Computability Theory of and with Scheme** | 12 | 6.001 and 6.042 | [OCW (Spring 2003)](https://ocw.mit.edu/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/) | Programming theory, logic of programming, and computability with Scheme. |
 
-### Advanced
-| Status | Subject (Number/Title) | Prerequisites | Resources | Notes |
-| :---: | :--- | :--- | :--- | :--- |
-| ⏳ | **6.821: Programming Languages** | | [OCW (Fall 2002)](https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/) | Types/semantics/functional; grad-level PL. |
-| ⏳ | **6.854J: Advanced Algorithms** | Intro to algorithms, Linear Algebra | [OCW (Fall 2008)](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/) | Graduate course on design and analysis of algorithms. |
-| ⏳ | **18.409: Behavior of Algorithms** | Grad course in algorithms | [OCW (Spring 2002)](https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/) | Area of current interest in theoretical computer science. |
+### Content provided by me and improved by Grok.
