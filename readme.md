@@ -45,5 +45,23 @@ I'll be sharing raw updates here—probably weekly. Wins, fails, code snippets, 
 
 I'll be straight—no bullshit: I accomplished *nothing* this month. There was a mountain of goals stacked up for December (hello, MIT Course 6-3 deep dive), but here I am on Dec 31, 2025, staring at a blank slate. Zero completions. Not one algorithm conquered, not a single proof scribbled. I legit have no fucking clue what I did with those last 27 days—scrolling? Procrastinating? Existing in some analysis-paralysis limbo?
 
+# January 2026
+
+## Mathematics 
+
+| Status | Subject (Number/Title)  | Prerequisites | Resources | Notes |
+| :---: |  :---: | :--- | :--- | :--- |
+| ⏳ | **6.1200[J]: Mathematics for Computer Science** |  Calculus I (18.01) | [OCW (Spring 2024)](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/); [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d) | Discrete math, proofs. |
+| ⏳ |  **18.01SC: Single Variable Calculus** |  High School Algebra & Trig | [OCW (Fall 2010)](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/) | Differentiation and integration of functions of one variable. |
+| ⏳ |  **18.014 Calculus with Theory** |  Single Variable Calculus | [OCW](https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/) and [Book Tom M. Apostol CALCULUS VOL 1](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Tom%20Apostol%20-%20Calculus%20vol.1%20-%20One-variable%20Calculus%2C%20with%20an%20Introduction%20to%20Linear%20Algebra%20%281975%29.pdf) | |
+   
+## Computer Science
+
+| Status  | Subject (Number/Title)  | Prerequisites | Resources | Notes |
+| :---: | :---: | :--- | :--- | :--- |
+| ⏳ |  **6.1210: Introduction to Algorithms** |  6.100A and 6.1200[J] | [OCW (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) and [Introduction to Algorithms book](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf) | |
+| ⏳ |  **6.1220[J]: Design and Analysis of Algorithms** | 6.1210 and 6.1200[J] | [OCW (Spring 2015)](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) and  [Introduction to Algorithms book](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf)  |  |
+| ⏳ | **6.1910: Computation Structures** | Physics II (8.02) and C | [OCW (Spring 2017)](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/);   [YouTube (Fall 2017)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2);  [YouTube (Fall 2018)](https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu); [Official Site](https://computationstructures.org/) |  |
+| ⏳ | **6.1800: Computer Systems Engineering** |  6.004 and 6.009 | [OCW (Spring 2018)](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/); [YouTube (Spring 2005)](https://www.youtube.com/playlist?list=PL6535748F59DCA484) | |
 
 ### Content provided by me and improved by Grok.
