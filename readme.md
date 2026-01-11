@@ -1,7 +1,16 @@
-# PL Researcher Challenge
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Start Date](https://img.shields.io/badge/Start%20Date-Dec%205%202025-blue)
+<div align="center" style="text-align: center">
+  <img src="./img/img.png" alt="OpenCS logo"/>
+  <h1>PL Researcher Challenge</h1>
+  <p>
+    Inspired by Scott Young's MIT Challenge—he self-studied a full MIT CS degree in a year—I am taking it two steps further in this challenge.
+  </p>
+  <p>
+    <a href="https://github.com/Computer-Scientist-01/PL-Researcher-Challenge">
+      <img alt="Status" src="https://img.shields.io/badge/Status-In%20Progress-yellow"/>
+      <img alt="Start Date" src="https://img.shields.io/badge/Start%20Date-Dec%205%202025-blue"/>
+    </a>
+  </p>
+</div>
 
 ## About Me
 
@@ -13,7 +22,7 @@ At first, it was game dev: building 2D and 3D games, getting lost in Unity and G
 
 But here's the thing—formal education started feeling... irrelevant. I already knew so much of what was coming up, and I didn't want to waste years grinding through stuff I'd mastered on my own. So, two years ago, I took a drop from school. No regrets.
 
-**My big aim?** In the next three years, land a spot as a **PL researcher**—either at a top university, working with my favorite professor like Stephanie Weirich or Zhong Shao, or jumping into a solid job as a PL researcher or computer scientist at a place like Microsoft Research or Google DeepMind.
+**My aim?** In the next three years, land a spot as a **PL researcher**—either at a top university, working with my favorite professor like Stephanie Weirich or Zhong Shao, or jumping into a solid job as a PL researcher or computer scientist at a good place like Microsoft Research or Google DeepMind.
 
 ## The Challenge
 
@@ -23,10 +32,17 @@ That frustration hit a peak recently. I even toyed with going back to formal sch
 
 It's inspired by Scott Young's MIT Challenge—you know, that guy who self-studied a full MIT CS degree in a year. But I'm taking it two steps further. In this challenge, I'm chasing straight-up knowledge, consistency, and discipline to level up as a PL researcher.
 
+### Note
+I know damn well that cranking out real research in STEM, or even just getting to the point where you can do legit work, ain't happening in one year. Even for seasoned professionals with PhDs, it takes years—plural—to produce only one solid, high-quality paper or project. I'm not delusional; I'm 16, self-taught, and fighting my own demons.
+
+That 1-year timeline? It's just a basic frame to keep my ass moving. If I chill out and say "take your time, no rush," I'll trap myself right back in that analysis paralysis hell—planning forever, shipping nothing. Been there, wasted months. So yeah, the deadline's my whip to stay disciplined.
+
+**To all the oversmart fake genius types lurking: F*ck off. Don't @ me with your "that's impossible" crap.**
+
 ### The Breakdown
 
-1.  **BS in Computer Science and Engineering (MIT Course 6-3)**
-2.  **MS in Computational Science and Engineering**
+1. **BS in Computer Science and Engineering (MIT Course 6-3)**
+2. **MS in Computational Science and Engineering**
 
 **The Endgame?** Use that mastery to dive into PL research. But let's be real: I could get there eventually without this challenge. It'd just take longer, with more paralysis dragging me down. So why bother? Because *effort is what I control*. The results—job, uni spot, whatever—that's out of my hands. This is about showing up daily, grinding the subjects, building projects, and owning the discipline. Knowledge as the prize, not the deadline.
 
@@ -38,30 +54,9 @@ I'll be sharing raw updates here—probably weekly. Wins, fails, code snippets, 
 
 ---
 
+## BS in Computer Science and Engineering
 
-## BS in Computer Science and Engineering (104 days)
-
-# December 2025 
-
+### December 2025 Goals
 I'll be straight—no bullshit: I accomplished *nothing* this month. There was a mountain of goals stacked up for December (hello, MIT Course 6-3 deep dive), but here I am on Dec 31, 2025, staring at a blank slate. Zero completions. Not one algorithm conquered, not a single proof scribbled. I legit have no fucking clue what I did with those last 27 days—scrolling? Procrastinating? Existing in some analysis-paralysis limbo?
 
-# January 2026
-
-## Mathematics 
-
-| Status | Subject (Number/Title)  | Prerequisites | Resources | Notes |
-| :---: |  :---: | :--- | :--- | :--- |
-| ⏳ | **6.1200[J]: Mathematics for Computer Science** |  Calculus I (18.01) | [OCW (Spring 2024)](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/); [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d) | Discrete math, proofs. |
-| ⏳ |  **18.01SC: Single Variable Calculus** |  High School Algebra & Trig | [OCW (Fall 2010)](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/) | Differentiation and integration of functions of one variable. |
-| ⏳ |  **18.014 Calculus with Theory** |  Single Variable Calculus | [OCW](https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/) and [Book Tom M. Apostol CALCULUS VOL 1](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Tom%20Apostol%20-%20Calculus%20vol.1%20-%20One-variable%20Calculus%2C%20with%20an%20Introduction%20to%20Linear%20Algebra%20%281975%29.pdf) | |
-   
-## Computer Science
-
-| Status  | Subject (Number/Title)  | Prerequisites | Resources | Notes |
-| :---: | :---: | :--- | :--- | :--- |
-| ⏳ |  **6.1210: Introduction to Algorithms** |  6.100A and 6.1200[J] | [OCW (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) and [Introduction to Algorithms book](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf) | |
-| ⏳ |  **6.1220[J]: Design and Analysis of Algorithms** | 6.1210 and 6.1200[J] | [OCW (Spring 2015)](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) and  [Introduction to Algorithms book](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf)  |  |
-| ⏳ | **6.1910: Computation Structures** | Physics II (8.02) and C | [OCW (Spring 2017)](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/);   [YouTube (Fall 2017)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2);  [YouTube (Fall 2018)](https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu); [Official Site](https://computationstructures.org/) |  |
-| ⏳ | **6.1800: Computer Systems Engineering** |  6.004 and 6.009 | [OCW (Spring 2018)](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/); [YouTube (Spring 2005)](https://www.youtube.com/playlist?list=PL6535748F59DCA484) | |
-
-### Content provided by me and improved by Grok.
+###### Content provided by me and improved by Grok.
